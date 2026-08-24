@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TigerMC",
+    "username": "247BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "f-1.candynodes.in",
-    "port": 26692,
+    "ip": "warriorzsmp_s1.aternos.me",
+    "port": 40424,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -27,13 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+  
       ]
     },
     "chat-log": true,
